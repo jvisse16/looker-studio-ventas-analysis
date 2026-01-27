@@ -21,5 +21,7 @@ El dashboard cuenta con **4 páginas**, separando visualización y análisis par
 ###  Insights – Productos y Ciudades Clave
 ![Insights](Imagenes/InsightsProductosCiudades.png)
 
+##  Fuente de datos
+El dataset utilizado corresponde a un archivo CSV de ventas (Superstore), empleado únicamente con fines educativos y de demostración analítica.
 
 
