@@ -1,7 +1,9 @@
 #  Análisis de Ventas – Looker Studio
 
 ## Descripción
-Dashboard de ventas desarrollado en Looker Studio, orientado al análisis de desempeño comercial, productos clave y mercados estratégicos, con visualizaciones ejecutivas e insights analíticos.
+Este dashboard de ventas fue creado en Looker Studio con el objetivo de analizar el rendimiento comercial de manera clara y práctica. A través de diferentes visualizaciones, se evalúan las ventas a lo largo del tiempo, los productos con mejor desempeño y las ciudades más relevantes, permitiendo identificar patrones, tendencias y oportunidades de mejora.
+
+El enfoque del dashboard es principalmente analítico, pensado para facilitar la toma de decisiones a nivel comercial y ofrecer una visión general rápida junto con insights más detallados.
 
 
 ##  Dashboard interactivo
